@@ -1,2 +1,3 @@
-# exercícios de Sistemas Distribuidos
-Exercícios em Python utilizando a ideia de processos e threads.
+# Distributed Systems Exercises
+
+Small exercises in Python to understand the logic of Distributed Systems
